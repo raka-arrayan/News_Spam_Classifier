@@ -1,6 +1,6 @@
 # News Spam Classifier
 
-##  What is News Spam Classifier ?
+##  What is News Spam Classifier
 
 The News Spam Classifier is a machine learning-based application designed to identify whether a piece of news text is spam or not spam (ham). It aims to help users automatically filter irrelevant, misleading, or spammy news articles 
 
